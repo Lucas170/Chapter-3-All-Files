@@ -10,6 +10,28 @@
 //+------------------- DO NOT REMOVE THIS HEADER --------------------+
 
    /* 
+   -----
+   
+   Hey guys,
+   
+   I strongly encourage you stay in touch with our course updates 
+   & new course launches (on Machine Learning, Data Science etc) by joining our mailing list.
+   This allows me to have a channel to keep in touch with you. 
+   No spam, and you can unsubscribe anytime. =)
+   
+   Link: http://eepurl.com/bVQiXr
+   
+   After you sign up, we will send you our Ebook - "Black Algo Strategy Development Guide".
+   We are looking to create more ebooks/guides for you guys. Will send them to you via email once they
+   are out!
+   
+   Cheers,
+   Lucas
+   
+   -----
+   */
+
+   /* 
       ADELINE ENTRY RULES:
       Enter a long trade when SMA(10) crosses SMA(40) from bottom
       Enter a short trade when SMA(10) crosses SMA(40) from top
@@ -104,7 +126,7 @@ int start() {
 
    for (int i = 0; i < Total; i ++) {
       Ticket2 = OrderSelect(i, SELECT_BY_POS, MODE_TRADES);
-      if(OrderType() <= OP_SELL &&  OrderSymbol() == Symbol() OrderMagicNumber() == MagicNumber) {
+      if(OrderType() <= OP_SELL &&  OrderSymbol() == Symbol() && OrderMagicNumber() == MagicNumber) {
          IsTrade = True;
          if(OrderType() == OP_BUY) {
             //Close
