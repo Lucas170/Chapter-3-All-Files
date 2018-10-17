@@ -20,7 +20,7 @@
    This allows me to have a channel to keep in touch with you. 
    No spam, and you can unsubscribe anytime. =)
    
-   Link: http://eepurl.com/bVQiXr
+   Link: http://eepurl.com/dKDvBM
    
    After you sign up, we will send you our flagship email course: 
    
