@@ -16,14 +16,17 @@
    
    I strongly encourage you stay in touch with our course updates 
    & new course launches (on Machine Learning, Data Science etc) by joining our mailing list.
+   
    This allows me to have a channel to keep in touch with you. 
    No spam, and you can unsubscribe anytime. =)
    
    Link: http://eepurl.com/bVQiXr
    
-   After you sign up, we will send you our Ebook - "Black Algo Strategy Development Guide".
-   We are looking to create more ebooks/guides for you guys. Will send them to you via email once they
-   are out!
+   After you sign up, we will send you our flagship email course: 
+   
+   AT100 - KWTG (Know-What-To-Google) Email Course. 
+   
+   10 emails over 10 days to bring you to the level where you can self-learn algorithmic trading.
    
    Cheers,
    Lucas
