@@ -14,16 +14,19 @@
    
    Hey guys,
    
-   I strongly encourage you stay in touch with our course updates 
-   & new course launches (on Machine Learning, Data Science etc) by joining our mailing list.
-   This allows me to have a channel to keep in touch with you. 
-   No spam, and you can unsubscribe anytime. =)
+   This Black Algo Course is the first part out of 5. 
    
-   Link: http://eepurl.com/bVQiXr
+   All 5 parts will be on AlgoTrading101.com (check us out!)
    
-   After you sign up, we will send you our Ebook - "Black Algo Strategy Development Guide".
-   We are looking to create more ebooks/guides for you guys. Will send them to you via email once they
-   are out!
+   We will also teach Python, MQL5, Machine Learning, VBA etc on AlgoTrading101.com
+   
+   AlgoTrading101 is full at the moment. 
+   You can join our waitlist here: http://eepurl.com/dKDvBM
+   
+   Enrollment into AlgoTrading101 will only be open to those on the waitlist.
+   
+   After you sign up, we will also send you our flagship email course for free: 
+   AT100 - KWTG (Know-What-To-Google) Email Course. 
    
    Cheers,
    Lucas
